@@ -1,0 +1,81 @@
+{
+  "modified": "Fri, 02 Mar 2018 15:23:43 GMT",  
+  "override": "false",
+  "overridetemp": 75,
+  "weekday": {
+    "times": [
+      {
+        "start": "2:30",
+        "end": "4:30",
+        "temperature": "70"
+      },
+      {
+        "start": "7:30",
+        "end": "9:30",
+        "temperature": "75"
+      },
+      {
+        "start": "15:00",
+        "end": "17:30",
+        "temperature": "82"
+      },
+      {
+        "start": "17:49",
+        "end": "17:50",
+        "temperature": "76"
+      },
+      {
+        "start": "17:52",
+        "end": "17:53",
+        "temperature": "75"
+      },
+      {
+        "start": "17:55",
+        "end": "17:56",
+        "temperature": "75"
+      },
+      {
+        "start": "19:00",
+        "end": "24:00",
+        "temperature": "76"
+      }
+    ]
+  },
+  "weekend": {
+    "times": [
+      {
+        "start": "0:00",
+        "end": "2:00",
+        "temperature": "70"
+      },
+      {
+        "start": "2:30",
+        "end": "4:30",
+        "temperature": "60"
+      },
+      {
+        "start": "7:30",
+        "end": "14:30",
+        "temperature": "78"
+      },
+      {
+        "start": "18:46",
+        "end": "18:48",
+        "temperature": "75"
+      },
+      {
+        "start": "18:50",
+        "end": "18:52",
+        "temperature": "75"
+      },
+      {
+        "start": "18:55",
+        "end": "18:58",
+        "temperature": "75"
+      }
+
+    ]
+
+  }
+}
+

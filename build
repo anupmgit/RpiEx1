@@ -1,0 +1,2 @@
+#! /bin/bash
+gcc tempmanager.c ClientWebRequest.c circularbuffer.c datalogger.c devices.c controller.c -o ThermoPi -ljansson -lcurl -lpthread -lwiringPi -lwiringPiDev
